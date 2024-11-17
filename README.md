@@ -6,6 +6,7 @@
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Sunil9882/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Sunil9882/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Sunil9882/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Sunil9882/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Sunil9882/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Sunil9882/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -13,6 +14,7 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Sunil9882/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Sunil9882/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Sunil9882/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Sunil9882/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 ## Two Pointers
@@ -43,5 +45,22 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Sunil9882/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Sunil9882/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+## Queue
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Sunil9882/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Sunil9882/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Sunil9882/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Sunil9882/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 <!---LeetCode Topics End-->
