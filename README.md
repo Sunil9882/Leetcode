@@ -50,6 +50,7 @@
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Sunil9882/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1755-defuse-the-bomb](https://github.com/Sunil9882/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sunil9882/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/Sunil9882/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Sunil9882/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Queue
 |  |
@@ -71,4 +72,9 @@
 |  |
 | ------- |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sunil9882/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/Sunil9882/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+## String
+|  |
+| ------- |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/Sunil9882/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 <!---LeetCode Topics End-->
