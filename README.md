@@ -11,6 +11,7 @@
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Sunil9882/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1755-defuse-the-bomb](https://github.com/Sunil9882/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1972-rotating-the-box](https://github.com/Sunil9882/Leetcode/tree/master/1972-rotating-the-box) |
+| [2089-maximum-matrix-sum](https://github.com/Sunil9882/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Sunil9882/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Sunil9882/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sunil9882/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -44,6 +45,7 @@
 |  |
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/Sunil9882/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+| [2089-maximum-matrix-sum](https://github.com/Sunil9882/Leetcode/tree/master/2089-maximum-matrix-sum) |
 ## Sorting
 |  |
 | ------- |
@@ -87,6 +89,7 @@
 | ------- |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Sunil9882/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1972-rotating-the-box](https://github.com/Sunil9882/Leetcode/tree/master/1972-rotating-the-box) |
+| [2089-maximum-matrix-sum](https://github.com/Sunil9882/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Sunil9882/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Simulation
 |  |
