@@ -101,4 +101,8 @@
 |  |
 | ------- |
 | [0787-sliding-puzzle](https://github.com/Sunil9882/Leetcode/tree/master/0787-sliding-puzzle) |
+## Graph
+|  |
+| ------- |
+| [3189-find-champion-ii](https://github.com/Sunil9882/Leetcode/tree/master/3189-find-champion-ii) |
 <!---LeetCode Topics End-->
