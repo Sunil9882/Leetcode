@@ -33,6 +33,7 @@
 |  |
 | ------- |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Sunil9882/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Sunil9882/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Sunil9882/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1972-rotating-the-box](https://github.com/Sunil9882/Leetcode/tree/master/1972-rotating-the-box) |
 ## Stack
@@ -94,6 +95,7 @@
 ## String
 |  |
 | ------- |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Sunil9882/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Sunil9882/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 ## Matrix
 |  |
@@ -137,4 +139,8 @@
 |  |
 | ------- |
 | [2201-valid-arrangement-of-pairs](https://github.com/Sunil9882/Leetcode/tree/master/2201-valid-arrangement-of-pairs) |
+## String Matching
+|  |
+| ------- |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Sunil9882/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 <!---LeetCode Topics End-->
